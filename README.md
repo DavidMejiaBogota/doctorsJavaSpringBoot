@@ -1,3 +1,16 @@
+API REST Citas Consultorio Médico
+    -java
+    -spring boot
+    -maven
+    -sql
+
+Creado por:
+    -Giovanna Astrid Rueda C
+    -Alejandro Rey Vera
+    -José David Mejía Meneses
+
+
+
 
 Pruebas postman
 
