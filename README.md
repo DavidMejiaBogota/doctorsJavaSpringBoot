@@ -21,6 +21,12 @@ Guía paso a paso para crear una API REST básica con java, spring boot, maven y
 
     3. Correr la aplicaión en apiCitasApplication.java
 
+Modelo de la base de datos:
+
+![Alt text](<img/Drigrama Modelo Entiendad Relacional..png>)
+
+
+
 Pruebas postman
 
 Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamiento de la APP Doctors, se realiza un paquete de pruebas con el cliente Postman y el servidor de la aplicación, verificando los tres modelos existentes: Doctores, Pacientes y Citas, a continuación se plasma evidencia del proceso:
