@@ -8,3 +8,20 @@ Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamien
 1.	Consultar todos los pacientes de la base de datos:
 
 ![Alt text](img/paciente/pacienteTodos.png)
+
+2. Consultar todos los pacientes de la base de datos buscando un id que no existe:
+
+![Alt text](img/paciente/pacienteTodosError.png)
+
+3. Crear paciente
+
+![Alt text](img/paciente/3crearPaciente.png)
+
+4. Actualizar paciente.
+
+![Alt text](img/paciente/4actualizarPaciente.png)
+
+5. Elimninar paciente.
+
+![Alt text](img/paciente/5eliminarPaciente.png)
+
