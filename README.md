@@ -8,9 +8,18 @@ Creado por:
     -Giovanna Astrid Rueda C
     -Alejandro Rey Vera
     -José David Mejía Meneses
+    2023 diciembre
 
+Guía paso a paso para crear una API REST básica con java, spring boot, maven y sql:
+    1. Clonar este repositorio utilizando el siguiente comando en Git:
+    
+    https://github.com/DavidMejiaBogota/doctorsJavaSpringBoot.git
 
+    2. Instalar el paquete requerido :
 
+    mvn clean install
+
+    3. Correr la aplicaión en apiCitasApplication.java
 
 Pruebas postman
 
