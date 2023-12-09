@@ -53,3 +53,30 @@ Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamien
 
 ![Alt text](img/paciente/5eliminarPaciente.png)
 
+
+### CRUD Doctor
+
+1.	Consultar todos los doctores de la base de datos:
+
+![Alt text](img/doctor/TodosDoctores.png)
+
+2. Consultar todos los doctores de la base de datos buscando un id que no existe:
+
+![Alt text](img/doctor/IdnoExiste.png)
+
+3. Crear doctor:
+
+![Alt text](img/doctor/CrearDoctor.png)
+
+4. Consultar doctor por especialidad:
+
+![Alt text](img/doctor/porEspecialidad.png)
+
+5. Elimninar doctor:
+
+![Alt text](img/doctor/EliminarDoctor.png)
+
+6. Error por creación del mismo doctor que ya existe en la bd:
+
+![Alt text](img/doctor/ErrorDobleCreacion.png)
+
