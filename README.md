@@ -49,7 +49,7 @@ Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamien
 
 ![Alt text](img/paciente/4actualizarPaciente.png)
 
-5. Elimninar paciente.
+5. Eliminar paciente.
 
 ![Alt text](img/paciente/5eliminarPaciente.png)
 
@@ -72,7 +72,7 @@ Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamien
 
 ![Alt text](img/doctor/porEspecialidad.png)
 
-5. Elimninar doctor:
+5. Eliminar doctor:
 
 ![Alt text](img/doctor/EliminarDoctor.png)
 
