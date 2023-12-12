@@ -87,9 +87,9 @@ Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamien
 
 1.	Consultar todas las citas de la base de datos:
 
-![Alt text](img/cita/2.1por1noExisten.png)
+![Alt text](img/cita/1.ConsultarDB.png)
 
-2.  Consultar cita 1 por 1 en la base de datos que no existe en ella con sus parametros:
+2.  Consultar cita 1 por 1 en la base de datos que no existe en ella con sus parámetros:
 
 ![Alt text](img/cita/2.1por1noExisten.png)
 
@@ -97,7 +97,7 @@ Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamien
 
 ![Alt text](img/cita/3.Creacitas.png)
 
-4. Se Realiza un mapeo, me la Busca por el ID de Paciente y Doctor, que no es solo el fecha y Hora si no tambien me trae la informacion de ellos mismos asi seria seria el mapeo:
+4. Se Realiza un mapeo, me la Busca por el ID de Paciente y Doctor, que no es solo él, fecha y Hora, sino también me trae la información de ellos mismos, así sería el mapeo:
 
 ![Alt text](img/cita/4.MapeodeCita.png)
 
@@ -105,7 +105,7 @@ Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamien
 
 ![Alt text](img/cita/5.ActualizaDatos.png)
 
-6. Se Realiza la Eliminacion de Datos de la cita:
+6. Se Realiza la Eliminación de Datos de la cita:
 
 ![Alt text](img/cita/6.EliminalaCita.png)
 
