@@ -87,7 +87,7 @@ Con el objetivo de realizar las pruebas y validaciones del adecuado funcionamien
 
 1.	Consultar todas las citas de la base de datos:
 
-![Alt text](img/cita/1.ConsultarDB.png)
+![Alt text](img/cita/2.1por1noExisten.png)
 
 2.  Consultar cita 1 por 1 en la base de datos que no existe en ella con sus parametros:
 
